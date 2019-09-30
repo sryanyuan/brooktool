@@ -3,6 +3,7 @@ Easy way to use brook
 
 ## Usage
 
+```
   -bin string
         Brook executable file path
         
@@ -17,3 +18,4 @@ Easy way to use brook
         
   -update
         Force to update the local pac file
+```

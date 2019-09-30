@@ -1,6 +1,12 @@
 # brooktool
 Easy way to use brook
 
+## Feature
+
+* Support white or block list
+* Cache pac to local
+* Auto detect pac file change and apply to system config
+
 ## Usage
 
 ```
